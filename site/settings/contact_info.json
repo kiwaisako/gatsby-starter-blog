@@ -1,0 +1,9 @@
+{
+  "phone": "415-555-5555",
+  "email": "me@email.com",
+  "address": {
+    "street": "100 Main Street",
+    "street2": "APT 201",
+    "city": "San Francisco"
+  }
+}
